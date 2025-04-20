@@ -2,6 +2,8 @@ title: .NET Core C# Project
 plan:
 - title: Welcome
   statement: markdowns/welcome.md
+  statement: markdowns/dos.md
+  statement: markdowns/tres.md
 projects:
   csharp:
     root: /csharp-project
