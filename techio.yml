@@ -2,7 +2,9 @@ title: .NET Core C# Project
 plan:
 - title: Welcome
   statement: markdowns/welcome.md
+- title: Dos
   statement: markdowns/dos.md
+- title: Tres
   statement: markdowns/tres.md
 projects:
   csharp:
